@@ -13,10 +13,10 @@ ABOUT ME
 - Enthusiast Learner
 
   TECH STACK
-  -Languages:Python,HTML,CSS,JavaScript
-  -Frameworks:Flask,Streamlit,Tkinter
+  Languages:Python,HTML,CSS,JavaScript
+  Frameworks:Flask,Streamlit,Tkinter
   Tools-Git,Github,VS Code , Canva
   Domains- AI Basics, Machine Learning(Beginner)
 
   WHAT I HOPE TO LEARN
-  I aspire to master AI and ML techniques,strengthen my problem solving skills,and develop intelligent systems that improve everyday life.
+  -I aspire to master AI and ML techniques,strengthen my problem solving skills,and develop intelligent systems that improve everyday life.
